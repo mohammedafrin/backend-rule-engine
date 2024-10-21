@@ -93,22 +93,17 @@ MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/db-name?retryWrite
 ## Running the Application
 
 ### Start Backend
-
+Goto backend window of VScode
 ```bash
-cd server
 npm run dev
 ```
 
 ### Clone frontend repo
-
+now open frontend window of Vscode
 ```bash
-
-cd mern-fronend
+npm run start
 ```
 bash
-
-npm run start
-
 
 ## API Endpoints
 
