@@ -62,7 +62,7 @@ The backend will now be running at [http://localhost:5000](http://localhost:5000
    ```bash
    git clone https://github.com/mohammedafrin/mern-rule-engine-project.git
    cd mern-rule-engine-project
-   
+   cd frontend
 2. Install the frontend dependencies:
    ```bash
    npm install
