@@ -72,6 +72,7 @@ The backend will now be running at [http://localhost:5000](http://localhost:5000
    npm run start
    
 The frontend will be running at [http://localhost:3000](http://localhost:3000).
+Your Web Application is Live now and you are ready to use it
 
 ### 4. Connecting Frontend and Backend
 
