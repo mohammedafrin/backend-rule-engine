@@ -29,7 +29,7 @@ Before setting up the project, ensure you have the following software installed:
 ### 1. Clone the Repository
 
    ```bash
-   git clone https://github.com/mohammedafrin/backend-rule-engine
+   git clone https://github.com/mohammedafrin/backend-rule-engine.git
    cd backend-rule-engine
 
    ```
@@ -60,8 +60,8 @@ The backend will now be running at [http://localhost:5000](http://localhost:5000
 
 1. clone front end repository:
    ```bash
-   git clone
-   cd mern-fronend
+   git clone https://github.com/mohammedafrin/mern-rule-engine-project.git
+   cd mern-rule-engine-project
    
 2. Install the frontend dependencies:
    ```bash
