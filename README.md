@@ -36,16 +36,11 @@ Before setting up the project, ensure you have the following software installed:
 
 ### 2. Backend Setup (backend)
 
-1. Navigate to the backend folder:
-   ```bash
-   cd backend
-   ```
-
-2. Install the backend dependencies:
+1. Install the backend dependencies:
    ```bash
    npm install
    
-3. Create a .env file in the server directory with the following content:
+2. Create a .env file in the server directory with the following content:
 
    ```bash
    PORT=5000
@@ -53,7 +48,7 @@ Before setting up the project, ensure you have the following software installed:
    MONGO_URI=mongodb+srv://mohommedafrin1974:F3Lh0txa2scnWqRy@cluster0.cl2z4.mongodb.net/?retryWrites=true&w=majority&
                
 
-4. Start the backend server:
+3. Start the backend server:
    ```bash
    npm run start
 
@@ -63,9 +58,10 @@ The backend will now be running at [http://localhost:5000](http://localhost:5000
 
 ### 3. Frontend Setup 
 
-1. Navigate to the frontend folder:
+1. clone front end repository:
    ```bash
-   cd ../frontend
+   git clone
+   cd mern-fronend
    
 2. Install the frontend dependencies:
    ```bash
@@ -103,10 +99,14 @@ cd server
 npm run dev
 ```
 
-### Start Frontend
+### Clone frontend repo
 
+```bash
+
+cd mern-fronend
+```
 bash
-cd frontend
+
 npm run start
 
 
